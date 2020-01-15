@@ -1,0 +1,54 @@
+Free and open-source software (FOSS) is software that can be classified as both free software and open-source software.
+That is, anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly 
+shared so that people are encouraged to voluntarily improve the design of the software.
+
+why
+Users of FOSS benefit from the Four Essential Freedoms to make unrestricted use of, and to study, copy, modify, and redistribute 
+such software with or without modification. If they would like to change the functionality of software they can bring about changes
+to the code and, if they wish, distribute such modified versions of the software or often − depending on the software's decision 
+making model and its other users − even push or request such changes to be made via updates to the original software.
+
+rivacy and security
+
+Manufacturers of proprietary, closed-source software are sometimes pressured to building in backdoors or other covert, undesired 
+features into their software. Instead of having to trust software vendors, users of FOSS can inspect and verify 
+the source code themselves and can put trust on a community of volunteers and users.[36] As proprietary code is typically hidden 
+from public view, only the vendors themselves and hackers may be aware of any vulnerabilities in them[36] while FOSS involves as 
+many people as possible for exposing bugs quickly.
+
+Low costs or no costs
+
+FOSS is often free of charge although donations are often encouraged. This also allows users to better test and compare software.
+
+Quality, collaboration and efficiency
+
+FOSS allows for better collaboration among various parties and individuals with the goal of developing the most efficient software 
+for its users or use-cases while proprietary software is typically meant to generate profits. Furthermore, in many cases more 
+organizations and individuals contribute to such projects than to proprietary software.[36] It has been shown that technical 
+superiority is typically the primary reason why companies choose open source software.
+
+Applications
+
+Office suites
+
+    Apache OpenOffice (formerly known as OpenOffice.org)
+    Calligra Suite – The continuation of KOffice under a new name
+    LibreOffice – Independent Work of OpenOffice.org with a number of enhancements
+    ONLYOFFICE Desktop Editors – An open-source offline edition of the Cloud
+    
+Graphics
+
+    Blender – Professional computer graphics software featuring modeling, sculpting, texturing, rigging, simulation, rendering, camera tracking, video editing, and compositing
+    OpenFX – Modeling and animation software with a variety of built-in post processing effects
+    Seamless3d – Node-driven 3D modeling software
+		upiTube (formerly KTooN) – Application for the design and creation of animation
+		OpenToonz – Part of a family of 2D animation software
+Internet
+    Geary (software) – Email client based on WebKitGTK+
+    Mozilla Thunderbird – Email, news, RSS, and chat client
+		Slrn – Newsreader
+		Twinkle – VoIP softphone
+		Ring – Cross-platform, peer to peer instant-messaging and video-calling protocol that offers end-to-end encryption and SIP client
+
+Infrastructure
+
