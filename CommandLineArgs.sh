@@ -22,4 +22,5 @@ if grep -q $2 /home/exam1/TempCS/AddNames/$1; then
 else
 	echo Username Not found
 	echo $2>>/home/exam1/TempCS/AddNames/$1
+	echo "Username has been added to the file"
 fi
